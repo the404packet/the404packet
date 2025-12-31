@@ -22,6 +22,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Somanshu-Mahajan.Somanshu-Mahajan&"  />
 </div>
 
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=the404packet&theme=react-dark&hide_border=true&area=true)
 ###
 <img src="https://raw.githubusercontent.com/Somanshu-Mahajan/Somanshu-Mahajan/output/snake.svg" alt="Snake animation" />
 
