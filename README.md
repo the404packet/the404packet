@@ -1,15 +1,19 @@
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&letterSpacing=5px&pause=700&background=36BCF700&center=true&vCenter=true&width=450&lines=Hello%2C+Folks+%F0%9F%91%8B;Welcome+to+my+Profile+%F0%9F%9A%80;I+am+Somanshu+Mahajan;aka+%22the404packet%22" />
-      </a>
-    </td>
-    <td>
-      <img src="gif.gif" width="120" />
-    </td>
-  </tr>
-</table>
+<div align="center" style="display:flex; align-items:center; justify-content:center; gap:20px;">
+  
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&letterSpacing=5px&pause=700&background=36BCF700&center=true&vCenter=true&width=450&lines=Hello%2C+Folks+%F0%9F%91%8B;Welcome+to+my+Profile+%F0%9F%9A%80;I+am+Somanshu+Mahajan;aka+%22the404packet%22"
+    />
+  </a>
+
+  <img
+    src="gif.gif"
+    width="600"
+    alt="Profile GIF"
+  />
+
+</div>
+
 
 
 <div align="center">
