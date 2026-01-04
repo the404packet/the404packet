@@ -6,7 +6,7 @@
       </a>
     </td>
     <td>
-      <img src="./assets/typing.gif" width="120" />
+      <img src="gif.gif" width="120" />
     </td>
   </tr>
 </table>
